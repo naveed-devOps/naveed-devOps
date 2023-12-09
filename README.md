@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @naveed-devOps
+- 👋 Hi, I’m Muhammad Naveed
 - 👀 I’m interested in MERN stacks
-- 🌱 I’m currently learning MERN stacks
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me naveed65@gmail.com
 
